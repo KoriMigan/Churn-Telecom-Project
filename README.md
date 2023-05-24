@@ -8,7 +8,7 @@ Written by Fiona Njuguna
 
 Phase 3 Project
 
-> This project is a part of the [Data Science (DSF-FT) Course](https://moringaschool.com/courses/data-science-course/) at [Moringa School](https://moringaschool.com/). The full project description can be found [here](https://github.com/learn-co-curriculum/dsc-phase-3-project-v2-3).
+> This project is a part of the [Data Science (DSF-FT) Course](https://moringaschool.com/courses/data-science-course/) at [Moringa School](https://moringaschool.com/). The full project description can be found [here](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics).
 
 ## Overview
 
